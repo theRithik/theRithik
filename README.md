@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[<img src="https://github.com/theRithik/theRithik/blob/main/intro.gif.mp4" alt="👋 Hi there! I'm (theRithik(111|nd Li)|https://theRithik)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://theRithik\)"/>](https://raymond.li/)
+https://user-images.githubusercontent.com/115656594/210421747-133430d0-69f6-4522-9b86-b8fa8f7ab2f2.mp4
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/Rithikkuvvarapu)

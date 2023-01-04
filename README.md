@@ -1,12 +1,7 @@
 ### Hi Developers 👋
-
-
-           
-
 <video controls autoplay>
 <source src="https://user-images.githubusercontent.com/115656594/210503666-12526a7f-b11f-497e-949e-969a29a9f1b5.mp4" type="viedo/mp4" width="400" heigth="300" />
 </viedo>
-
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/Rithikkuvvarapu)
 [![Linkedin Badge](https://img.shields.io/badge/-Rithik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)](https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rithik-green)](https://www.rithik)

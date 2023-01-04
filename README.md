@@ -1,6 +1,8 @@
 ### Hi Developers 👋
 
-  <img src="https://www.canva.com/design/DAFWoTD7FSk/Ap-YgQ0cKD_hmcdVyeJDJg/watch?utm_content=DAFWoTD7FSk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="video/mp4">
+ [<img src="https://user-images.githubusercontent.com/115656594/210509977-ddfefb45-3b59-4d7c-bfbc-a64ef7f4f294.mp4" alt="intro" title ="intro about me" />]
+
+
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/Rithikkuvvarapu)
@@ -10,8 +12,6 @@
 
 I'm
 Full Stack Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
 
 ![Visitor Count](https://profile-counter.glitch.me/theRithik/count.svg)
 

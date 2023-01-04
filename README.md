@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
- [<img src="https://user-images.githubusercontent.com/115656594/210509977-ddfefb45-3b59-4d7c-bfbc-a64ef7f4f294.mp4" alt="intro" title ="intro about me" />]
+ <img src="https://user-images.githubusercontent.com/115656594/210509977-ddfefb45-3b59-4d7c-bfbc-a64ef7f4f294.mp4" alt="intro" title ="intro about me" autoplay="true"/>
 
 
 

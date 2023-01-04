@@ -1,11 +1,8 @@
 ### Hi Developers 👋
 
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/NkUIlTgfHGd?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
+
             <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/NkUIlTgfHGd/embed" width="640" height="360"></iframe>
-        </div>
+    
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/Rithikkuvvarapu)
 [![Linkedin Badge](https://img.shields.io/badge/-Rithik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)](https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)

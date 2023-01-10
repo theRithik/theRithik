@@ -5,7 +5,7 @@
 
 
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/Rithikkuvvarapu)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red)](https://www.youtube.com/@Rithikkuvvarapu)
 [![Linkedin Badge](https://img.shields.io/badge/-Rithik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)](https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rithik-green)](https://www.rithik)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rithik-yellow)](https://stackoverflow.com/users/20918743/rithik)

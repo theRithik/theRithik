@@ -70,7 +70,7 @@ Full Stack Developer
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
-![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=GraphQl)&nbsp;
+[![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=GraphQl)&nbsp;
    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
     </a>
@@ -86,10 +86,10 @@ Full Stack Developer
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red?style=flat&logo=Youtube)](https://www.youtube.com/@Rithikkuvvarapu)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Rithik-red?style=flat&logo)](https://www.youtube.com/@Rithikkuvvarapu)
 [![Linkedin Badge](https://img.shields.io/badge/-Rithik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)](https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Rithik-05122A?style=flat&logo=Website)](https://www.rithik)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Rithik-05122A?style=flat&logo=StockOverflow)](https://stackoverflow.com/users/20918743/rithik)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rithik-05122A?style=flat&logo)](https://www.rithik)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Rithik-05122A?style=flat&logo)](https://stackoverflow.com/users/20918743/rithik)
 
 </p>
 

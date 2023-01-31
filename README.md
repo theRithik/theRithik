@@ -1,7 +1,11 @@
 ### Hi Developers 👋
 
- <img src="https://user-images.githubusercontent.com/115656594/210509977-ddfefb45-3b59-4d7c-bfbc-a64ef7f4f294.mp4" alt="intro" title ="intro about me" autoplay="true"/>
 
+
+
+
+<img alt="about me" src="https://user-images.githubusercontent.com/115656594/215687822-a20fec5d-3508-4a24-97c0-cfeb58f12e69.mp4" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 
@@ -34,7 +38,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+        <img src="https://d1wrxu8gicsgam.cloudfront.net/wp-content/files/django-logo-big.jpg" width="40" height="40" />
     </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />

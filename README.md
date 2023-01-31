@@ -3,6 +3,7 @@
 
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=5FF7F5&center=true&width=500&height=100&lines=HY+I+AM+RITHIK%F0%9F%91%8B;A+FULL+STACK+DEVELOPER%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;IF+YOU+ARE+INTERESTED+FOLLOW%E2%9D%A4%EF%B8%8F;TO+KNOW+ABOUT+ME%E2%9C%8C%EF%B8%8F" background-image=url("https://thumbs.gfycat.com/BlissfulScentedAustraliancattledog-mobile.mp4") alt="Typing SVG" /></a>
 
 
 

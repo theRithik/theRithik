@@ -27,7 +27,6 @@ Full Stack Developer
 </div>
 
 ### 🛠 &nbsp;Tech Stack
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
@@ -76,6 +75,10 @@ Full Stack Developer
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
+    
+![Angular.js](https://img.shields.io/badge/-Angular.js-05122A?style=flat&logo=Angular.js)&nbsp;
+
+![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=GraphQl)&nbsp;
    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
     </a>

@@ -127,7 +127,7 @@
   <a href="https://github.com/theRithik" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rithik-kuvvarapu-a4513717b/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:rithikkuvvarapu7@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Instagram"/></a>
+<a href="https://www.instagram.com/me.rithik_/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/Instagram.png" alt="Instagram"/></a>
 
 </div>
 

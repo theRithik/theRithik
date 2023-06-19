@@ -121,7 +121,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=theRithik&theme=react-dark&area=true)
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=aakashdeveloper&theme=react-dark&hide_border=true&area=true)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
